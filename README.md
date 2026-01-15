@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=700&color=7EE787&center=true&vCenter=true&width=980&lines=<YOUR_PROJECT_NAME>;A+Minimal+Social+Experience;Connect.+Share.+Interact." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Your%20Project%20Name&fontAlign=50&fontAlignY=40&fontSize=60&desc=Connect%20%E2%80%A2%20Share%20%E2%80%A2%20Interact&descAlign=50&descAlignY=65&animation=fadeIn" />
+
 
 <p>
   <b><YOUR_PROJECT_NAME></b> is a modern social-style app built for learning and showcasing clean UI, interactions, and authentication.
