@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xlNGt5Ymo5MTdzdjR3dmgxczhlamxoNGxubHYyNzM2ODcxd2M5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduHY1wEoEOUyD96/giphy.gif" width="70%" alt="coding gif" />
+<img src="[Y3Q9Zw/3oEduHY1wEoEOUyD96/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlpNjE4YzNzM2ltZ2d1ajJ0Y3EwMmhsNjdvbGh5eGpjMHVoNzk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="70%" alt="coding gif" />
 
 <p>
   <b>Building clean, practical, and modern web experiences.</b><br/>
