@@ -1,83 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Your%20Project%20Name&fontAlign=50&fontAlignY=40&fontSize=60&desc=Connect%20%E2%80%A2%20Share%20%E2%80%A2%20Interact&descAlign=50&descAlignY=65&animation=fadeIn" />
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
 
 <p>
-  <b><YOUR_PROJECT_NAME></b> is a modern social-style app built for learning and showcasing clean UI, interactions, and authentication.
+  <b>Building clean, practical, and modern web experiences.</b><br/>
+  Academic Coordinator @ Pinecone Academy • Part-time Developer
 </p>
 
 <p>
-  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>">
-    <img src="https://img.shields.io/github/stars/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Stars" />
-  </a>
-  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/network/members">
-    <img src="https://img.shields.io/github/forks/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Forks" />
-  </a>
-  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/issues">
-    <img src="https://img.shields.io/github/issues/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Issues" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="License" />
-  </a>
+  Focused on frontend engineering, UI/UX, and real-world applications.
 </p>
 
 <p>
-  <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-roadmap">Roadmap</a>
+  <a href="https://github.com/<YOUR_GITHUB>">
+    <img src="https://img.shields.io/github/followers/<YOUR_GITHUB>?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/<YOUR_GITHUB>?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Overview
-**<YOUR_PROJECT_NAME>** is a small social network project designed to practice real-world development workflows:
-clean UI, reusable components, API integration, and user authentication.
+## 👋 About Me
+I am an **Academic Coordinator at Pinecone Academy** and a **part-time developer** with a strong focus on modern web technologies.
 
-It’s perfect for:
-- learning modern frontend patterns
-- building a portfolio-ready project
-- experimenting with UI/UX and social interactions
+I enjoy building clean, user-friendly interfaces and practical applications that solve real problems.  
+Currently, I am preparing my portfolio and skills for a **software-related Ausbildung opportunity in Germany**.
 
----
-
-## ✨ Features
-- 📝 Create posts (text / images / GIFs)
-- ❤️ Like and 💬 comment interactions
-- 👤 User profiles + responsive layout
-- 🌙 Dark mode (optional)
-- 🔐 Authentication (Sign up / Login / Logout)
-- 🧭 Feed experience (basic timeline)
-
-> Remove anything you don’t have yet to keep it accurate and clean.
+What defines my work:
+- clean and readable code
+- strong attention to UI/UX
+- continuous learning mindset
+- real-world, practical projects
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** <React / Next.js / Vue>  
-**UI:** <Tailwind CSS / MUI / CSS Modules>  
-**Backend:** <Node.js + Express / Firebase / Django>  
-**Database:** <MongoDB / PostgreSQL / Firebase>  
-**Auth:** <JWT / Firebase Auth / NextAuth>  
+## 🧠 Skills & Technologies
+**Frontend**
+- JavaScript (ES6+)
+- React / Next.js
+- HTML5, CSS3
+- Tailwind CSS
+
+**Backend & Tools**
+- Node.js (basic)
+- REST APIs
+- Git & GitHub
+- Firebase / MongoDB (basic)
+
+**Other**
+- UI/UX fundamentals
+- Responsive design
+- Team collaboration & mentoring
+
+---
+
+## 📌 Featured Project
+### 🧩 <PROJECT_NAME>
+A minimal social-style application built to practice frontend architecture, user interactions, and authentication.
+
+**Key highlights**
+- clean and responsive UI
+- reusable component structure
+- authentication and user flows
+- modern frontend practices
+
+**Tech stack**
+- Frontend: <React / Next.js>
+- Styling: <Tailwind CSS>
+- Backend: <Firebase / Node.js>
+- Auth: <Firebase Auth / JWT>
+
+🔗 **Repository:** https://github.com/<YOUR_GITHUB>/<YOUR_REPO>
 
 ---
 
 ## 📸 Screenshots
-Put your images inside `assets/` and update the file names below.
-
 | Feed | Profile | Create Post |
 |---|---|---|
 | ![](assets/feed.png) | ![](assets/profile.png) | ![](assets/post.png) |
 
 ---
 
-## ⚙️ Getting Started
+## 🎯 Career Goal
+My current goal is to secure an **Ausbildung position in Germany** in the field of **software development / IT**.
 
-### 1) Clone
-```bash
-git clone https://github.com/<YOUR_GITHUB>/<YOUR_REPO>.git
-cd <YOUR_REPO>
+I am particularly interested in:
+- frontend or web development roles
+- structured learning environments
+- long-term growth and professional development
+
+I value discipline, consistency, and continuous improvement.
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/<YOUR_GITHUB>
+- Email: <YOUR_EMAIL>
+- LinkedIn: <YOUR_LINKEDIN>
+
+---
+
+<div align="center">
+
+<i>“Learning by building. Growing by consistency.”</i>
+
+</div>
