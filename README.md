@@ -97,9 +97,8 @@ I value discipline, consistency, and continuous improvement.
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/<YOUR_GITHUB>
-- Email: <YOUR_EMAIL>
-- LinkedIn: <YOUR_LINKEDIN>
+- GitHub: https://github.com/Nansae1
+- Email: nnsae920@gmail.com
 
 ---
 
