@@ -1,64 +1,80 @@
-<!-- ===================== -->
-<!--  Mini Social Network  -->
-<!-- ===================== -->
-
 <div align="center">
 
-<img src="assets/banner.png" alt="Mini Social Network banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=700&color=7EE787&center=true&vCenter=true&width=980&lines=<YOUR_PROJECT_NAME>;A+Minimal+Social+Experience;Connect.+Share.+Interact." alt="Typing SVG" />
 
-# Mini Social Network  
-### Connect • Share • Interact
+<p>
+  <b><YOUR_PROJECT_NAME></b> is a modern social-style app built for learning and showcasing clean UI, interactions, and authentication.
+</p>
 
-[![Stars](https://img.shields.io/github/stars/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge)](https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/stargazers)
-[![Forks](https://img.shields.io/github/forks/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge)](https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/network/members)
-[![Issues](https://img.shields.io/github/issues/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge)](https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/issues)
-[![License](https://img.shields.io/github/license/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge)](LICENSE)
+<p>
+  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>">
+    <img src="https://img.shields.io/github/stars/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Stars" />
+  </a>
+  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/network/members">
+    <img src="https://img.shields.io/github/forks/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Forks" />
+  </a>
+  <a href="https://github.com/<YOUR_GITHUB>/<YOUR_REPO>/issues">
+    <img src="https://img.shields.io/github/issues/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/<YOUR_GITHUB>/<YOUR_REPO>?style=for-the-badge" alt="License" />
+  </a>
+</p>
 
-**Minimal & modern social-style UI** — жижигхэн social playground, UI/Frontend сурч дадлага хийхэд тохиромжтой.
+<p>
+  <a href="#-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-roadmap">Roadmap</a>
+</p>
 
 </div>
 
 ---
 
-## ✨ About
-**Mini Social** бол хэрэглэгчид **пост хийх, лайк/коммент**, профайл харах, dark mode зэрэг үндсэн social функцуудтай мини төсөл.
+## 🚀 Overview
+**<YOUR_PROJECT_NAME>** is a small social network project designed to practice real-world development workflows:
+clean UI, reusable components, API integration, and user authentication.
 
-> 🎯 Зорилго: UI/UX, state management, API integration, authentication зэрэг сэдвүүдийг бодитоор туршиж сурах.
-
----
-
-## 🔥 Features
-- 📝 Post: текст / зураг / GIF *(хүсвэл)*  
-- ❤️ Like & 💬 Comment interactions  
-- 👤 User profiles + responsive layout  
-- 🌙 Dark mode + neon accents *(сонголтоор)*  
-- 🔐 Auth: Sign up / Login / Logout  
-- 🧭 Feed + basic filtering *(optional)*  
-- 📱 Fully responsive (mobile / tablet / desktop)
+It’s perfect for:
+- learning modern frontend patterns
+- building a portfolio-ready project
+- experimenting with UI/UX and social interactions
 
 ---
 
-## 🧰 Tech Stack
-**Frontend:** [React / Next.js / Vue / Angular]  
-**UI:** [TailwindCSS / MUI / Chakra / CSS Modules]  
-**Backend:** [Node.js / Express / Django / Spring] *(эсвэл mock API)*  
-**DB:** [MongoDB / PostgreSQL / Firebase]  
-**Auth:** [JWT / Firebase Auth / NextAuth]  
+## ✨ Features
+- 📝 Create posts (text / images / GIFs)
+- ❤️ Like and 💬 comment interactions
+- 👤 User profiles + responsive layout
+- 🌙 Dark mode (optional)
+- 🔐 Authentication (Sign up / Login / Logout)
+- 🧭 Feed experience (basic timeline)
 
-> ✅ *Эндээс өөрийнхөө ашигласан технологиудыг үлдээгээд бусдыг нь устгаарай.*
+> Remove anything you don’t have yet to keep it accurate and clean.
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** <React / Next.js / Vue>  
+**UI:** <Tailwind CSS / MUI / CSS Modules>  
+**Backend:** <Node.js + Express / Firebase / Django>  
+**Database:** <MongoDB / PostgreSQL / Firebase>  
+**Auth:** <JWT / Firebase Auth / NextAuth>  
 
 ---
 
 ## 📸 Screenshots
-> `assets/` хавтас дотор зургаа хийж нэрийг нь тааруулаарай.
+Put your images inside `assets/` and update the file names below.
 
-| Home / Feed | Profile | Post Modal |
+| Feed | Profile | Create Post |
 |---|---|---|
-| ![](assets/screen-feed.png) | ![](assets/screen-profile.png) | ![](assets/screen-post.png) |
+| ![](assets/feed.png) | ![](assets/profile.png) | ![](assets/post.png) |
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Getting Started
 
 ### 1) Clone
 ```bash
