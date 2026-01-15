@@ -28,7 +28,6 @@
 I am an **Academic Coordinator at Pinecone Academy** and a **part-time developer** with a strong focus on modern web technologies.
 
 I enjoy building clean, user-friendly interfaces and practical applications that solve real problems.  
-Currently, I am preparing my portfolio and skills for a **software-related Ausbildung opportunity in Germany**.
 
 What defines my work:
 - clean and readable code
