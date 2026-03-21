@@ -65,12 +65,6 @@ What defines my work:
 
 ---
 
-## 📸 Screenshots
-| Feed | Profile | Create Post |
-|---|---|---|
-| ![](assets/feed.png) | ![](assets/profile.png) | ![](assets/post.png) |
-
----
 
 
 ## 📬 Contact
