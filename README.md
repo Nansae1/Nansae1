@@ -62,7 +62,6 @@ What defines my work:
 - Backend: <Firebase / Node.js>
 - Auth: <Firebase Auth / JWT>
 
-🔗 **Repository:** https://github.com/<YOUR_GITHUB>/<YOUR_REPO>
 
 ---
 
