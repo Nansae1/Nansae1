@@ -56,17 +56,6 @@ What defines my work:
 - Team collaboration & mentoring
 
 ---
-
-## 📌 Featured Project
-### 🧩 <PROJECT_NAME>
-A minimal social-style application built to practice frontend architecture, user interactions, and authentication.
-
-**Key highlights**
-- clean and responsive UI
-- reusable component structure
-- authentication and user flows
-- modern frontend practices
-
 **Tech stack**
 - Frontend: <React / Next.js>
 - Styling: <Tailwind CSS>
@@ -84,17 +73,6 @@ A minimal social-style application built to practice frontend architecture, user
 
 ---
 
-## 🎯 Career Goal
-My current goal is to secure an **Ausbildung position in Germany** in the field of **software development / IT**.
-
-I am particularly interested in:
-- frontend or web development roles
-- structured learning environments
-- long-term growth and professional development
-
-I value discipline, consistency, and continuous improvement.
-
----
 
 ## 📬 Contact
 - GitHub: https://github.com/Nansae1
